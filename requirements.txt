@@ -1,4 +1,6 @@
 streamlit
 langchain
-google-generativeai
 python-dotenv
+sentence-transformers
+ctransformers
+python-box
